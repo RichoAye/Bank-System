@@ -1,4 +1,4 @@
-# 💳 SecureBank – Modern Banking System (Frontend)
+# SecureBank – Modern Banking System (Frontend)
 
 SecureBank is a responsive, modern web interface for a fictional online banking platform. It is designed as a frontend project using HTML and CSS, ideal for demonstrating UI design for financial services.
 
@@ -6,7 +6,7 @@ This project can be used as a base for more complex banking systems with backend
 
 ---
 
-## 🔍 Project Description & Functionality
+##  Project Description & Functionality
 
 This web application represents a **secure, user-friendly digital banking interface**. It is designed to provide customers with easy access to core banking services, mimicking what a real-world banking system might offer from a UI perspective.
 
@@ -46,7 +46,7 @@ This web application represents a **secure, user-friendly digital banking interf
 ---
 ## Bank System
 
-![bank system Screenshot]()
+![bank system Screenshot](https://github.com/RichoAye/Bank-System/blob/main/bank%20system%20screenshut.png?raw=true)
 
 
 
